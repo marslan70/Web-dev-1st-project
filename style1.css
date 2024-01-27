@@ -1,0 +1,11 @@
+.sliderImg1 {
+    /* width="60vw" height="33VW" */
+    width: 60vw;
+    height: 33VW;
+    /* background-color: red; */
+    background-image: url("/media/static-websites.jpg");
+    /* D:\Win-10\Desktop\SRE project\static\img\image2.jpg */
+    background-repeat: no-repeat;
+    background-size: 60vw 33VW;
+    /* animation: lftSlideIn1 5s ease infinite; */
+}
